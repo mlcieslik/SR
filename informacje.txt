@@ -1,9 +1,9 @@
-Pytania jakie nam siê pojawi³y w czasie pracy:
+Pytania jakie nam siÄ™ pojawiÅ‚y w czasie pracy:
 
-1.Czy wszyscy powinni posiadaæ ca³¹ mapê, czy ka¿dy tylko swoj¹ czêœæ?
-2.Co robimy w sytuacji gdy jedna osoba siê roz³¹czy ?
+1.Czy wszyscy powinni posiadaÄ‡ caÅ‚Ä… mapÄ™, czy kaÅ¼dy tylko swojÄ… czÄ™Å›Ä‡ ?
+2.Co robimy w sytuacji gdy jedna osoba siÄ™ rozÅ‚Ä…czy ?
 -> czy koniec gry
-3.Czy na pocz¹tku koordynator który ustala gdzie jest skarb
-4.Jak ustalamy wspó³czynnik zaminowania czêœci -  czy we wszystkich czêœciach taki sam ?
-5.Czy sprawdzamy jakoœ,¿eby ka¿dy/ wogóle ktoœ by³ w stanie dostaæ siê do skarbu (kontrola zajêtoœci pó³)
-6.Czy koordynator podaje kierunek kompasu czy ka¿dy zna punkt po³o¿enia 
+3.Czy na poczÄ…tku koordynator ktÃ³ry ustala gdzie jest skarb
+4.Jak ustalamy wspÃ³czynnik zaminowania czÄ™Å›ci -  czy we wszystkich czÄ™Å›ciach taki sam ?
+5.Czy sprawdzamy jakoÅ›,Å¼eby kaÅ¼dy/ wogÃ³le ktoÅ› byÅ‚ w stanie dostaÄ‡ siÄ™ do skarbu (kontrola zajÄ™toÅ›ci pÃ³l)
+6.Czy koordynator podaje kierunek kompasu czy kaÅ¼dy zna wspÃ³Å‚rzÄ™dne pola gdzie siÄ™ on znajduje ? 
