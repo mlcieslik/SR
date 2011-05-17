@@ -1,83 +1,83 @@
-Pytania jakie nam siê pojawi³y w czasie pracy:
+Pytania jakie nam siÄ™ pojawiÅ‚y w czasie pracy:
 
-1.Czy wszyscy powinni posiadaæ ca³¹ mapê, czy ka¿dy tylko swoj¹ czêœæ?
-2.Co robimy w sytuacji gdy jedna osoba siê roz³¹czy ?
+1.Czy wszyscy powinni posiadaÄ‡ caÅ‚Ä… mapÄ™, czy kaÅ¼dy tylko swojÄ… czÄ™Å›Ä‡?
+2.Co robimy w sytuacji gdy jedna osoba siÄ™ rozÅ‚Ä…czy ?
 -> czy koniec gry
-3.Czy na pocz¹tku koordynator który ustala gdzie jest skarb
-4.Jak ustalamy wspó³czynnik zaminowania czêœci -  czy we wszystkich czêœciach taki sam ?
-5.Czy sprawdzamy jakoœ,¿eby ka¿dy/ wogóle ktoœ by³ w stanie dostaæ siê do skarbu (kontrola zajêtoœci pó³)
-6.Czy koordynator podaje kierunek kompasu czy ka¿dy zna punkt po³o¿enia 
+3.Czy na poczï¿½tku koordynator ktï¿½ry ustala gdzie jest skarb
+4.Jak ustalamy wspï¿½czynnik zaminowania czï¿½ci -  czy we wszystkich czï¿½ciach taki sam ?
+5.Czy sprawdzamy jakoï¿½,ï¿½eby kaï¿½dy/ wogï¿½le ktoï¿½ byï¿½ w stanie dostaï¿½ siï¿½ do skarbu (kontrola zajï¿½toï¿½ci pï¿½)
+6.Czy koordynator podaje kierunek kompasu czy kaï¿½dy zna punkt poï¿½oï¿½enia 
 
 
 
 
 
 17.05.2011
-Wstêpnie coœ takiego proponujê, bêdê wdziêczny za wasze uwagi:
-Jak wszyscy/wiêkszoœæ zaakceptuje to wysy³amy do prowadz¹cego projekt.
+Wstï¿½pnie coï¿½ takiego proponujï¿½, bï¿½dï¿½ wdziï¿½czny za wasze uwagi:
+Jak wszyscy/wiï¿½kszoï¿½ï¿½ zaakceptuje to wysyï¿½amy do prowadzï¿½cego projekt.
 
-1. Czy wszyscy powinni posiadaæ ca³¹ mapê ?
+1. Czy wszyscy powinni posiadaï¿½ caï¿½ï¿½ mapï¿½ ?
 
-Wydaje mi siê,¿e mimo naszych wczeœniejszych ustaleñ nie.
-Zgodnie z tym co jest w opisie wykonania wszystkich projektów
-Trzeba te¿ przetestowaæ dzia³anie dla mniej ni¿ 4 te¿ - wiêc i wtedy trzeba mieæ mapê i lepiej,¿eby ka¿dy swoj¹.
+Wydaje mi siï¿½,ï¿½e mimo naszych wczeï¿½niejszych ustaleï¿½ nie.
+Zgodnie z tym co jest w opisie wykonania wszystkich projektï¿½w
+Trzeba teï¿½ przetestowaï¿½ dziaï¿½anie dla mniej niï¿½ 4 teï¿½ - wiï¿½c i wtedy trzeba mieï¿½ mapï¿½ i lepiej,ï¿½eby kaï¿½dy swojï¿½.
 
-2. Skoro gra ma dzia³aæ dla mniejszej liczby osób to powinniœmy chyba wykrywaæ jak zmieni siê liczba graczy
-i wtedy odpowiednio modyfikowaæ rozgrywkê np. nowy koordynator i nowy skarb jeœli wyciête zosta³o pole ze skarbem.
-Gracze przenoszeni s¹ na pola graniczne po stronie graczy którzy pozostali.
+2. Skoro gra ma dziaï¿½aï¿½ dla mniejszej liczby osï¿½b to powinniï¿½my chyba wykrywaï¿½ jak zmieni siï¿½ liczba graczy
+i wtedy odpowiednio modyfikowaï¿½ rozgrywkï¿½ np. nowy koordynator i nowy skarb jeï¿½li wyciï¿½te zostaï¿½o pole ze skarbem.
+Gracze przenoszeni sï¿½ na pola graniczne po stronie graczy ktï¿½rzy pozostali.
 
-3. Chyba koordynatora siê nie uniknie. Mo¿na jakiœ algorytm elekcji na podstawie MAC-a choæby
+3. Chyba koordynatora siï¿½ nie uniknie. Moï¿½na jakiï¿½ algorytm elekcji na podstawie MAC-a choï¿½by
 
 4. Koordynator ustala - tu chyba taka jego rola.
 
-5. myœlê,¿e to raczej zbêdne
+5. myï¿½lï¿½,ï¿½e to raczej zbï¿½dne
 
-6. myœlê,¿e punkt (ale u¿ytkownik widzi kierunek) - bo wydeje mi siê,¿e funkcja koordynatora powinna byæ tymczasowa. 
+6. myï¿½lï¿½,ï¿½e punkt (ale uï¿½ytkownik widzi kierunek) - bo wydeje mi siï¿½,ï¿½e funkcja koordynatora powinna byï¿½ tymczasowa. 
 
 Nowe:
 
-7. Jaki pocz¹tek dzia³ania ?
+7. Jaki poczï¿½tek dziaï¿½ania ?
 
-mo¿e ktoœ jest serwerem i na poczatek zbiera adresy ip tych co siê pod³¹czyli
+moï¿½e ktoï¿½ jest serwerem i na poczatek zbiera adresy ip tych co siï¿½ podï¿½ï¿½czyli
 
-8. Czy mo¿na siê do³¹czyæ do istniej¹cej gry ?
-9. Czy dwuch graczy mo¿e staæ na jednym polu swoimi postaciami ?
+8. Czy moï¿½na siï¿½ doï¿½ï¿½czyï¿½ do istniejï¿½cej gry ?
+9. Czy dwuch graczy moï¿½e staï¿½ na jednym polu swoimi postaciami ?
 
 
 10. Czy gra jest turowa czy kto szybciej klika ten lepszy ?
-Chyba turowoœci nie trzeba
+Chyba turowoï¿½ci nie trzeba
 
 
 
 
 Na dole przypominam zasady:
 
-Zasady realizacji i oceniania projektów:
-Ka¿de zadanie realizowane jest przez 4 zespo³y jednosobowe. Ka¿dy podzespó³ wykonuje implementacjê w innym jêzyku programowana/œrodowisku:
+Zasady realizacji i oceniania projektï¿½w:
+Kaï¿½de zadanie realizowane jest przez 4 zespoï¿½y jednosobowe. Kaï¿½dy podzespï¿½ wykonuje implementacjï¿½ w innym jï¿½zyku programowana/ï¿½rodowisku:
 C++ platformie Windows
 Java
 C#
-C++ na platformie Unix, Python lub inny nie wymieniony powy¿ej.
+C++ na platformie Unix, Python lub inny nie wymieniony powyï¿½ej.
 
-Oceniane s¹ podzespo³y 1-osobowe, ale bardzo silny wp³yw na ocenê ma umiejêtnoœæ wspó³pracy z pozosta³ymi podzespo³ami. W na ocenê podzespo³u maj¹ wp³yw nastêpuj¹ce czynniki:
-Jakoœæ zrealizowanego produktu
-Liczba innych podzespo³ów, z którymi dany projekt wspó³pracuje.
+Oceniane sï¿½ podzespoï¿½y 1-osobowe, ale bardzo silny wpï¿½yw na ocenï¿½ ma umiejï¿½tnoï¿½ï¿½ wspï¿½pracy z pozostaï¿½ymi podzespoï¿½ami. W na ocenï¿½ podzespoï¿½u majï¿½ wpï¿½yw nastï¿½pujï¿½ce czynniki:
+Jakoï¿½ï¿½ zrealizowanego produktu
+Liczba innych podzespoï¿½ï¿½w, z ktï¿½rymi dany projekt wspï¿½pracuje.
 
-Zasady s¹ nastêpuj¹ce:
-Je¿eli podzespó³ zrealizuje zadanie w 100%, ale nie uda siê go zintegrowaæ z ¿adnym innym podzespo³em otrzymuje 12 p.
-Integracja z 1 podzespo³em dodaje 4 p.
-Integracja z 2 podzespo³ami dodaje 4 p.
-Integracja z wiêksz¹ liczb¹ podzespo³ów ni¿ 2 nie zwiêksza dalej punktacji.
-Usterki w rozwi¹zaniu obni¿aj¹ punktacjê odpowiednio do ich skali.
+Zasady sï¿½ nastï¿½pujï¿½ce:
+Jeï¿½eli podzespï¿½ zrealizuje zadanie w 100%, ale nie uda siï¿½ go zintegrowaï¿½ z ï¿½adnym innym podzespoï¿½em otrzymuje 12 p.
+Integracja z 1 podzespoï¿½em dodaje 4 p.
+Integracja z 2 podzespoï¿½ami dodaje 4 p.
+Integracja z wiï¿½kszï¿½ liczbï¿½ podzespoï¿½ï¿½w niï¿½ 2 nie zwiï¿½ksza dalej punktacji.
+Usterki w rozwiï¿½zaniu obniï¿½ajï¿½ punktacjï¿½ odpowiednio do ich skali.
 
 Gra sieciowa (M.Komorowski):
-Zrealizowaæ rozproszon¹ grê sieciow¹ o nastêpuj¹cej funkcjonalnoœci. Dany jest œwiat w postaci czterech tablic NxN zawieraj¹cych mapê danej czêœci, po³¹czonych szeregowo i zapêtlonych. Na mapie mog¹ wyst¹piæ dwa rodzaje terenu: wolna przestrzeñ i zabudowa. Z ka¿dej czêœci œwiata pochodzi jedna istota, która mo¿e siê poruszaæ we wszystkich jego czêœciach startuj¹c w czêœci macierzystej. Napisaæ 4 programy implementuj¹ce poszczególne czêœci œwiata i steruj¹ce poszczególnymi istotami przy nastêpuj¹cych za³o¿eniach:
-Ruch mo¿liwy jest wy³¹cznie w wolnej przestrzeni.
-Przejœcia miêdzy czêœciami œwiata s¹ mo¿liwe o ile przystaj¹ do siebie wolnymi przestrzeniami.
-W jednym z pól jednego œwiata ukryty jest skarb. Wygrywa ten kto go znajdzie.
-Ka¿da istota ma kompas pokazuj¹cy kierunek do skarbu.
-Czêœæ wolnych pól jest losowo zaminowana
-Wejœcie na minê eliminuje gracza.
-U¿ytkownik programu steruj¹cego dan¹ czêœci¹ œwiata widzi:
-Stan poszczególnych czêœci (w tym pozycje istot innych graczy) ale ograniczony jedynie do obszarów odwiedzonych przez jego istotê. Pozosta³e obszary s¹ niewidoczne. Za czêœæ odwiedzon¹ nale¿y przyj¹æ pole, na którym znalaz³a siê istota oraz jej najbli¿sze s¹siedztwo.
-W odwiedzonym wolnym polu widoczna jest liczba min otaczaj¹cych to pole (jak w grze Saper)
+Zrealizowaï¿½ rozproszonï¿½ grï¿½ sieciowï¿½ o nastï¿½pujï¿½cej funkcjonalnoï¿½ci. Dany jest ï¿½wiat w postaci czterech tablic NxN zawierajï¿½cych mapï¿½ danej czï¿½ci, poï¿½ï¿½czonych szeregowo i zapï¿½tlonych. Na mapie mogï¿½ wystï¿½piï¿½ dwa rodzaje terenu: wolna przestrzeï¿½ i zabudowa. Z kaï¿½dej czï¿½ci ï¿½wiata pochodzi jedna istota, ktï¿½ra moï¿½e siï¿½ poruszaï¿½ we wszystkich jego czï¿½ciach startujï¿½c w czï¿½ci macierzystej. Napisaï¿½ 4 programy implementujï¿½ce poszczegï¿½lne czï¿½ci ï¿½wiata i sterujï¿½ce poszczegï¿½lnymi istotami przy nastï¿½pujï¿½cych zaï¿½oï¿½eniach:
+Ruch moï¿½liwy jest wyï¿½ï¿½cznie w wolnej przestrzeni.
+Przejï¿½cia miï¿½dzy czï¿½ciami ï¿½wiata sï¿½ moï¿½liwe o ile przystajï¿½ do siebie wolnymi przestrzeniami.
+W jednym z pï¿½l jednego ï¿½wiata ukryty jest skarb. Wygrywa ten kto go znajdzie.
+Kaï¿½da istota ma kompas pokazujï¿½cy kierunek do skarbu.
+Czï¿½ï¿½ wolnych pï¿½l jest losowo zaminowana
+Wejï¿½cie na minï¿½ eliminuje gracza.
+Uï¿½ytkownik programu sterujï¿½cego danï¿½ czï¿½ciï¿½ ï¿½wiata widzi:
+Stan poszczegï¿½lnych czï¿½ci (w tym pozycje istot innych graczy) ale ograniczony jedynie do obszarï¿½w odwiedzonych przez jego istotï¿½. Pozostaï¿½e obszary sï¿½ niewidoczne. Za czï¿½ï¿½ odwiedzonï¿½ naleï¿½y przyjï¿½ï¿½ pole, na ktï¿½rym znalazï¿½a siï¿½ istota oraz jej najbliï¿½sze sï¿½siedztwo.
+W odwiedzonym wolnym polu widoczna jest liczba min otaczajï¿½cych to pole (jak w grze Saper)
